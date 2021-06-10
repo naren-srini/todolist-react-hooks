@@ -3,8 +3,6 @@ This project is a simple to do list application built using react hooks.
 
 ## License
 
-https://img.shields.io/npm/l/react
-
 MIT License
 
 Copyright (c) [year] [Narayanan Srinivasan]
