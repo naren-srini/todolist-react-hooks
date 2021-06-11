@@ -1,2 +1,2 @@
 ## Description
-A simple to do list application built using React Hooks.
+A simple to do list React application built using React Hooks.
