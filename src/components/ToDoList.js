@@ -57,7 +57,7 @@ const removeTodo = id => {
             <ToDoForm onSubmit = {addTodo} />
             <ToDo 
             todos = {todos}
-            completeTodo = {completeTodo} removeToDo = {removeTodo} 
+            completeTodo = {completeTodo} removeTodo = {removeTodo} 
             updateTodo = {updateTodo}
             />
         </div>
